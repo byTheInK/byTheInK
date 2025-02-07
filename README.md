@@ -7,6 +7,17 @@ I am a *young* developer trying to make internet a better place. I am programmin
 - Operating System: Arch Linux, Android
 - Desktop Enviorment: KDE Plasma
 
+# ℹ️ System information (may be outdated)
+- Operating System: Arch Linux 
+- KDE Plasma Version: 6.2.5
+- KDE Frameworks Version: 6.10.0
+- Qt Version: 6.8.2
+- Kernel Version: 6.12.10-arch1-1 (64-bit)
+- Graphics Platform: Wayland
+- Processors: 8 × Intel® Core™ i5-10200H CPU @ 2.40GHz
+- Memory: 15.3 GiB of RAM
+- Graphics Processor: Mesa Intel® UHD Graphics
+
 # 🪄 The *quote* keeps me *alive*
 
 ### "There are no hopeless situations, only hopeless people. I have never lost my hope."
