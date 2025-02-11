@@ -6,11 +6,12 @@ I am a *young* developer trying to make internet a better place. I am programmin
 - Frameworks: Django, jQuery, Bootstrap, LÖVE
 - Operating System: Arch Linux, Android
 - Desktop Enviorment: KDE Plasma
+- Windows Manager: Hyprland (I use Hyprland in general)
+- Editor: Neovim
+- Terminal Emulator: Alacritty
 
 # ℹ️ System information (may be outdated)
 - Operating System: Arch Linux 
-- KDE Plasma Version: 6.2.5
-- KDE Frameworks Version: 6.10.0
 - Qt Version: 6.8.2
 - Kernel Version: 6.12.10-arch1-1 (64-bit)
 - Graphics Platform: Wayland
