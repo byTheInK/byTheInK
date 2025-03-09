@@ -6,7 +6,6 @@ I am a *young* developer trying to make internet a better place. I am programmin
 - Frameworks: Django, jQuery, Bootstrap, LÖVE
 - Operating System: Arch Linux, Android
 - Desktop Enviorment: KDE Plasma
-- Windows Manager: Hyprland (I use Hyprland in general)
 - Editor: Neovim
 - Terminal Emulator: Alacritty
 
